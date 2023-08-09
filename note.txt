@@ -1,0 +1,10 @@
+app => App router
+public=> Static assests to be served
+
+next.config.js=> Configration file for Next.js
+project.json=> Project dependencies and scripts
+
+app -> globals.css => This is global css file for the projects.
+app -> layout.js => This is the master layout where the application load the code.
+app -> page.js => This is file for home directory.
+app -> pages.modules.css => This is css file for home directory.
